@@ -16,3 +16,6 @@ Identificação Beta/OrbeLabz, retorno ao site institucional, chave de armazenam
 
 ## Próximas etapas
 Validar cada fluxo com John, persistência das configurações, autenticação, backend, permissões, backup e integrações; importar conversa original de criação.
+
+## Acesso ao serviço beta
+Após a publicação concluir, abra https://orbelabz.com/Agenda-OL-Beta/ . O status da publicação aparece na aba Actions deste repositório.
